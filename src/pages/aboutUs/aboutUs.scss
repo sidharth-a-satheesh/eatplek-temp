@@ -1,0 +1,14 @@
+.about-main{
+    padding: 13vh 3rem 0 3rem;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    align-items: center;
+    line-height: 3ch;
+    color: #F9F5EB;
+    .about-img-div{
+        .about-img{
+            width: fit-content;
+        }
+    }
+    
+}
