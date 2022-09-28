@@ -5,7 +5,7 @@ import './privacyPolicy.scss'
 const PrivacyPolicy = () => {
   return (
     <div className='privacy-policy'>
-      <h1>Privacy Policy for Eatplek</h1>
+      <h1>Privacy Policy</h1>
 
 <p>At Eatplek, accessible from https://www.eatplek.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Eatplek and how we use it.</p>
 
