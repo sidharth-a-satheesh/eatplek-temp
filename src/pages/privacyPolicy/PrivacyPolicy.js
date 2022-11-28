@@ -100,7 +100,7 @@ const PrivacyPolicy = () => {
 <p>Updated at 2022-11-27</p>
 
 <p> Eatplek (“we,” “our,” or “us”) is committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, and disclosed by Eatplek.</p>
-<p>This Privacy Policy applies to our website, and its associated subdomains (collectively, our “Service”) alongside our application, Eatplek. By accessing or using our Service, you signify that you have read, understood, and agree to our collection, storage, use, and disclosure of your personal information as described in this Privacy Policy and our Terms of Service. This Privacy Policy was created with <a href="https://termify.io" target="_blank">Termify</a>.</p>
+<p>This Privacy Policy applies to our website, and its associated subdomains (collectively, our “Service”) alongside our application, Eatplek. By accessing or using our Service, you signify that you have read, understood, and agree to our collection, storage, use, and disclosure of your personal information as described in this Privacy Policy and our Terms of Service. This Privacy Policy was created with <a href="https://termify.io">Termify</a>.</p>
 
 <h1>Definitions and key terms</h1>
 <p>To help explain things as clearly as possible in this Privacy Policy, every time any of these terms are referenced, are strictly defined as:
