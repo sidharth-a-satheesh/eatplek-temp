@@ -124,8 +124,8 @@ const PrivacyPolicy = () => {
 
 <ul><li>Name / Username</li><li>Phone Numbers</li><li>Email Addresses</li>
   </ul>
-  <p>We also collect information from mobile devices for a better user experience, although these features are completely optional:</p><ul><li>Location (GPS): Location data helps to create an accurate representation of your interests, and this can be used to bring more targeted and relevant ads to potential customers.</li>
-  </ul>
+  {/* <p>We also collect information from mobile devices for a better user experience, although these features are completely optional:</p><ul><li>Location (GPS): Location data helps to create an accurate representation of your interests, and this can be used to bring more targeted and relevant ads to potential customers.</li>
+  </ul> */}
 
 <h1>How Do We Use The Information We Collect?</h1>
 <p>Any of the information we collect from you may be used in one of the following ways:
@@ -208,12 +208,7 @@ const PrivacyPolicy = () => {
 <p>You acknowledge and agree that Eatplek shall not be responsible for any Third-Party Services, including their accuracy, completeness, timeliness, validity, copyright compliance, legality, decency, quality or any other aspect thereof. Eatplek does not assume and shall not have any liability or responsibility to you or any other person or entity for any Third-Party Services.</p>
 <p>Third-Party Services and links thereto are provided solely as a convenience to you and you access and use them entirely at your own risk and subject to such third parties' terms and conditions.</p>
 <h1>Tracking Technologies</h1>
-<ul><li>Google Maps API
-    <br /><br />
-    <p>Google Maps API is a robust tool that can be used to create a custom map, a searchable map, check-in functions, display live data synching with location, plan routes, or create a mashup just to name a few.</p>
-    <p>Google Maps API may collect information from You and from Your Device for security purposes.</p>
-    <p>Google Maps API collects information that is held in accordance with its Privacy Policy</p></li>
-    <br />
+<ul>
     <li>Local Storage
     <br /><br />
     <p>Local Storage sometimes known as DOM storage, provides web apps with methods and protocols for storing client-side data. Web storage supports persistent data storage, similar to cookies but with a greatly enhanced capacity and no information stored in the HTTP request header.</p></li>
