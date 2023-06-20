@@ -1,0 +1,27 @@
+.download{
+    padding: 0 10rem 3rem 10rem;
+    color: white;
+    display: grid;
+    grid-template-columns: 100%;
+    // row-gap: 2rem;
+    height: 80vh;
+    align-items: center;
+    justify-items: center;
+}
+.download-main{
+    display: flex;
+    column-gap: 4rem;
+    .download-img{
+        height: 100px;
+    }
+}
+@media only screen and (max-width: 800px) {
+    .download-main{
+        padding: 0 3rem 3rem 3rem;
+        display: grid;
+        row-gap: 2rem;
+        .download-img{
+            height: 70px;
+        }
+    }
+}

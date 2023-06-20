@@ -8,6 +8,7 @@ import AboutUs from "./pages/aboutUs/AboutUs";
 import PrivacyPolicy from "./pages/privacyPolicy/PrivacyPolicy";
 import ContactUs from "./pages/contactUs/ContactUs";
 import Terms from "./pages/terms/Terms";
+import Download from "./pages/download/Download";
 function App() {
   return (
     <div className="App">
@@ -18,6 +19,7 @@ function App() {
         <Route path="/privacy" element={<PrivacyPolicy />} />
         <Route path="/contact" element={<ContactUs />} />
         <Route path="/terms" element={<Terms />} />
+        <Route path="/download" element={<Download />} />
       </Routes>
       {/* <Footer /> */}
     </div>

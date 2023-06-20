@@ -32,6 +32,9 @@ const Navbar = () => {
           {/* <Link className="nav-link" to="/about">
             About Us
           </Link> */}
+          <Link className="nav-link" to="/download">
+          Download
+          </Link>
           <Link className="nav-link" to="/privacy">
           Privacy Policy
           </Link>
