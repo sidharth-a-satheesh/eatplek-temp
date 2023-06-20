@@ -25,7 +25,7 @@ const Navbar = () => {
         <img className="nav-logo" src={logo} alt="" />
       </Link> */}
       <div className="nav">
-        <nav className={viewNav ? "responsive-nav nav-sub" : "nav-sub-link"}>
+        <nav className={viewNav ? "responsive-nav" : "nav-sub-link"}>
           <Link className="nav-link" to="/">
             Home
           </Link>
