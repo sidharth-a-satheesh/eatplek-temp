@@ -1,5 +1,5 @@
 .home-main{
-    padding-top: 13vh;
+    // padding-top: 13vh;
     min-height: 87vh;
     .home-img{ 
         display: grid;
@@ -11,4 +11,40 @@
 
     }
     
+}
+@media only screen and (max-width: 600px) {
+    .home-main{
+        .home-img{ 
+            .home-img-main{
+                height: 60vh;
+            }
+        }
+    }
+}
+@media only screen and (max-width: 500px) {
+    .home-main{
+        .home-img{ 
+            .home-img-main{
+                height: 50vh;
+            }
+        }
+    }
+}
+@media only screen and (max-width: 400px) {
+    .home-main{
+        .home-img{ 
+            .home-img-main{
+                height: 45vh;
+            }
+        }
+    }
+}
+@media only screen and (max-width: 350px) {
+    .home-main{
+        .home-img{ 
+            .home-img-main{
+                height: 40vh;
+            }
+        }
+    }
 }
