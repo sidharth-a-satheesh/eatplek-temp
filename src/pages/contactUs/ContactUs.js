@@ -8,7 +8,7 @@ const ContactUs = () => {
         <div className="gap"></div>
 
             <h2>Email </h2><p>eatplek@gmail.com</p>
-            <h2>Address</h2> <p>Eatplek, Puthiya Keloth, Kayyankode,  <br /> Cheleri PO, Kannur <br />PIN: 670604, Kerala, India</p>
+            <h2>Address</h2> <p>Eatplek, Kayyankode,  <br /> Cheleri PO, Kannur <br />PIN: 670604, Kerala, India</p>
 
     </div>
   )
